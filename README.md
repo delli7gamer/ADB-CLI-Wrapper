@@ -11,4 +11,9 @@ it will ask for adb directory so point it to your adb install!
 
 FOR WINDOWS
 
-just run the exe and give it your adb directory
+Run the EXE file, and when it asks for the directory give it the adb.exe directory not just the folder. So when in the terminal just add adb.exe to your directory.
+
+TROUBLESHOOTING
+
+You need python installed for this to work!
+If you messed up your directory just delete the .json and run the script again!
