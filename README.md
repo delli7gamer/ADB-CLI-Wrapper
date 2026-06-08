@@ -1,4 +1,6 @@
 A little python tool written by yours truly to simplify adb commands and add a ui. Features things like a guided custom rom install and rebooting options.
+Make sure the android sdk is installed on your system and you know where it is.
+For linux run "sudo dnf install adb" for windows download from googles developer site.
 
 FOR LINUX (FEDORA/RED HAT)
 
